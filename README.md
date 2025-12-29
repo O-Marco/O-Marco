@@ -3,7 +3,7 @@
 - 🌍 In Pernambuco, Brazil
 - ✉️ Contact : marcoamparadiso@gmail.com
 
-## 🎓 Academic Training
+### 🎓 Academic Training
 - **Course:** Systems Analysis and Development (ADS).
 - **Institution:** Uninassau.
 - **Completion:** 2025.
