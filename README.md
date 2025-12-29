@@ -1,4 +1,4 @@
-# Opa, My Name is Marco! 👋 ×͜×
+# Opa, My Name is Marco! ×͜×
 
 - 🌍 I'm based in Pernambuco, Brazil
 - ✉️ You can contact me at : marcoamparadiso@gmail.com
