@@ -1,8 +1,13 @@
-# Opa, Me chamo Marco! 👋 ×͜×
+# Opa, My Name is Marco! 👋 ×͜×
 
 ### 👨‍💻 Em Desenvolvimento
 
 Estou sempre em busca de aprender novas tecnologias e resolver problemas reais através do código.
+
+## 🎓 Formação Acadêmica
+- **Curso:** Análise e Desenvolvimento de Sistemas (ADS).
+- **Instituição:** [Uninassau].
+- **Conclusão:** [2025].
 
 ### 🛠️ Tecnologias e Ferramentas
 
