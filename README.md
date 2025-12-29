@@ -1,4 +1,4 @@
-# Olá, Me chamo Marco ×͜× 👋
+# Olá, Me chamo Marco! 👋 ×͜×
 
 ### 👨‍💻 Desenvolvedor em Desenvolvimento
 
