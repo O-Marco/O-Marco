@@ -2,8 +2,8 @@
 
 ## 🎓 Formação Acadêmica
 - **Curso:** Análise e Desenvolvimento de Sistemas (ADS).
-- **Instituição:** [Uninassau].
-- **Conclusão:** [2025].
+- **Instituição:** Uninassau.
+- **Conclusão:** 2025.
 
 ### 🛠️ Tecnologias e Ferramentas
 
