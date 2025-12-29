@@ -1,8 +1,8 @@
 # Olá, Me chamo Marco! 👋 ×͜×
 
-### 👨‍💻 Desenvolvedor em Desenvolvimento
+### 👨‍💻 Em Desenvolvimento
 
-Estou sempre em busca de aprender novas tecnologias e resolver problemas reais através do código. Atualmente, foco em aperfeiçoar meus conhecimentos em **[Tecnologia X]** e **[Tecnologia Y]**.
+Estou sempre em busca de aprender novas tecnologias e resolver problemas reais através do código.
 
 ---
 
