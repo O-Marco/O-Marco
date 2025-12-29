@@ -1,16 +1,13 @@
 # Olá, eu sou o [Seu Nome] 👋
 
-### 👨‍💻 Desenvolvedor [Sua Área: Fullstack / Frontend / Mobile]
+### 👨‍💻 Desenvolvedor em Desenvolvimento
 
 Estou sempre em busca de aprender novas tecnologias e resolver problemas reais através do código. Atualmente, foco em aperfeiçoar meus conhecimentos em **[Tecnologia X]** e **[Tecnologia Y]**.
 
 ---
 
 ### 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em [Nome do Projeto ou Empresa]
-- 🌱 Aprendendo [Tecnologia que está estudando agora]
-- 💬 Pergunte-me sobre [Assuntos que você domina]
-- ⚡ Curiosidade: [Um hobby ou fato engraçado sobre você]
+- 🌱 Aprendendo [API e React]
 
 ---
 
