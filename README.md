@@ -1,7 +1,7 @@
 # Opa, My Name is Marco! ×͜×
 
-- 🌍 I'm based in Pernambuco, Brazil
-- ✉️ You can contact me at : marcoamparadiso@gmail.com
+- 🌍 In Pernambuco, Brazil
+- ✉️ Contact : marcoamparadiso@gmail.com
 
 ## 🎓 Formação Acadêmica
 - **Curso:** Análise e Desenvolvimento de Sistemas (ADS).
