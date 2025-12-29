@@ -1,4 +1,4 @@
-# Olá, Me chamo Marco! 👋 ×͜×
+# Opa, Me chamo Marco! 👋 ×͜×
 
 ### 👨‍💻 Em Desenvolvimento
 
