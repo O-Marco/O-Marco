@@ -48,6 +48,7 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas reais a
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O-Marco_USER&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Marco_USER&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=O-Marco_USER&theme=dark" />
 </p>
 
 ---
