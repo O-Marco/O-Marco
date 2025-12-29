@@ -41,6 +41,7 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas reais a
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=CapCut&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
 ### 📊 Estatísticas do GitHub
